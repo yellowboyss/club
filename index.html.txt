@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>日本出租车服务介绍</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background-color: #555;
+        }
+        section {
+            padding: 20px;
+            margin: 10px auto;
+            max-width: 800px;
+            background-color: white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>日本出租车服务介绍</h1>
+</header>
+
+<nav>
+    <a href="#introduction">首页</a>
+    <a href="#types">出租车类型</a>
+    <a href="#fares">费用说明</a>
+    <a href="#tips">使用技巧</a>
+</nav>
+
+<section id="introduction">
+    <h2>欢迎来到日本出租车介绍网站</h2>
+    <p>在日本，出租车服务非常便捷，适合那些想要快速到达目的地或者不熟悉公交系统的游客和居民。无论是在大城市还是乡村地区，出租车都是可靠的交通方式之一。</p>
+</section>
+
+<section id="types">
+    <h2>出租车类型</h2>
+    <p>日本的出租车种类多样，以下是常见的几种：</p>
+    <ul>
+        <li><strong>普通出租车：</strong>最常见的出租车类型，通常是黑色或黄色车辆，适合个人和小团体。</li>
+        <li><strong>豪华出租车：</strong>提供高端服务，通常是更宽敞的车辆，适合商务人士或追求更舒适体验的乘客。</li>
+        <li><strong>共享出租车：</strong>一些城市提供共享出租车服务，几名乘客可以共享一辆车，分摊费用。</li>
+    </ul>
+</section>
+
+<section id="fares">
+    <h2>费用说明</h2>
+    <p>出租车的费用根据行驶距离和时间计算，通常包括起步价和里程费用：</p>
+    <ul>
+        <li><strong>起步价：</strong>根据城市不同，起步价通常在500-700日元之间。</li>
+        <li><strong>里程费：</strong>超出起步距离后，每公里大约需支付300日元。</li>
+        <li><strong>夜间附加费：</strong>通常在晚上10点后，可能会收取额外的夜间附加费（通常为20%）。</li>
+    </ul>
+</section>
+
+<section id="tips">
+    <h2>使用技巧</h2>
+    <p>如何有效地使用出租车服务：</p>
+    <ul>
+        <li>出租车车顶灯亮起时，表示空车可载客。</li>
+        <li>在主要车站或商业区附近通常有出租车站点，那里更容易叫到车。</li>
+        <li>许多出租车司机不懂英文，建议携带目标地址的日文信息。</li>
+        <li>可以使用出租车预订APP（如JapanTaxi）提前叫车，方便快捷。</li>
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 日本出租车服务介绍网站</p>
+</footer>
+
+</body>
+</html>
